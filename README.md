@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BlaqLug
-- 👀 I’m interested in Solution Architecture specialising Automation, and Intergration for Financial system,
+- 👀 I’m interested in Solution Architecture specialising Automation, Intergration, and Cloud solutions for Financial systems.
 - 🌱 I’m currently learning to master UiPAth automation, Sharepoint, PowerApps, and Python
 - 💞️ I’m looking to collaborate on Python, UiPath and anything interesting.
 
